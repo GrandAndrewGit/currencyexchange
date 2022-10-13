@@ -1,6 +1,6 @@
-# Currency Exchange React App
+# Currency Exchange React App (with Redux)
 
-Based on monobank api [api link](https://api.monobank.ua/bank/currency).
+Based on monobank [api link](https://api.monobank.ua/bank/currency).
 
 Works with USD, EUR and UAH currencies.
 
