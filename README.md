@@ -10,6 +10,6 @@ First page contains selection of base currency and calculation of currency ratio
 
 Second page contains converter, where user is able to input string request for convertion (for example: 15 usd in uah). Validation for errors is included.
 
-Because of api restriction (429 error) app may display this error is cases of frequent page reload. 
+Because of api restriction (429 error) app may display this error in cases of frequent page reload. 
 
 
